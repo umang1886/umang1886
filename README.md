@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m Umang Vaghela, a Computer Science Engineering student with a strong interest in Artificial Intelligence and Machine Learning. I enjoy building practical and real-world applications using AI-driven logic, web technologies, and automation.
+Hi, I’m Umang Vaghela, a Computer Science Engineering student with a strong interest in Artificial Intelligence,Machine Learning and Generative AI. I enjoy building practical and real-world applications using AI-driven logic, web technologies, and automation.
 
 I have hands-on experience with Python, Flask, JavaScript, MySQL, and tools like n8n, Supabase, and APIs. I actively participate in hackathons and enjoy turning ideas into fully working products with clean UI and efficient backend logic.
 
